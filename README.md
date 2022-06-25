@@ -1,5 +1,7 @@
 # Faqih's Porfolio
 
+![Intro Image](./intro_faqihDev.png)
+
 Ini adalah project latihan slicing dari figma ke web menggunakan teknologi :
 - React Js
 - Vite
